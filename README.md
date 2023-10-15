@@ -1,4 +1,5 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://img.freepik.com/premium-vector/red-technology-wide-banner-with-circuit-board-abstract-digital-hi-tech-concept-red-background_156943-982.jpg))](https://rishavchanda.io)
+[![MasterHead]([https://media.istockphoto.com/id/670677896/vector/dark-red-technology-vector-banner-design.jpg?s=170667a&w=0&k=20&c=kpFJB1GBXA7WR0jXEn0TGR6vL3yAUKhWRQuZZyb4uW4=))](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Edwin Pretel</h1>
 <h3 align="center">A passionate IT student .</h3>
 
