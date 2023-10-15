@@ -1,11 +1,9 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP98ICjszKWFMH0PPqv4F_Hy4bTeeevePxJA&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Edwin Pretel</h1>
 <h3 align="center">A passionate IT student .</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
-<p align="left"> <img src="https://giffiles.alphacoders.com/209/209661.gif" alt="edintech23" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edintech23&label=Profile%20views&color=0e75b6&style=flat" alt="edintech23" /> </p>
 
-- 🌱 I’m currently learning **Networking**
+- 🌱 I’m currently learning **Networking and Cybersecurity**
 
 - 📫 How to reach me **Preteledwin21@gmail.com**
 
@@ -22,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edintech23&show_icons=true&locale=en" alt="edintech23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edintech23&" alt="edintech23" /></p>
+
+
